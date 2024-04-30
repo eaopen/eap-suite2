@@ -9,7 +9,9 @@
     <packaging>pom</packaging>
 
     <name>${project.artifactId}</name>
-    <description>openEAP suite2</description>
+    <description>openEAP suite2(2b)
+        企业应用系统，CRM系统(eap-crm)和ERP系统(eap-erp)
+    </description>
     <url>https://github.com/eaopen/openea-eap</url>
 
     <properties>
