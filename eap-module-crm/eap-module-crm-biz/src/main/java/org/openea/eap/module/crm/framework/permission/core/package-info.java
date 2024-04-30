@@ -1,0 +1,1 @@
+package org.openea.eap.module.crm.framework.permission.core;
